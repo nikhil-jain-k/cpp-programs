@@ -1,7 +1,6 @@
 //student structure with name,id,and cgpa as data members and sort on basis of id
 //This can store data of four students
-#include<iostream>
-#include<stdio.h>
+#include<bits/stdc++.h>
 using  namespace std;
     struct student{
     char name[50];
